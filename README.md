@@ -2,7 +2,7 @@
 
 A script to optimize macOS settings for gaming performance.
 
-## Installation
+## Installation 🟢
 
 1. Open Terminal and change directory to where the repository is located:
 
@@ -20,15 +20,16 @@ chmod +x optimize.py
 5. Run the optimization script:
 python3 optimize.py
 
-6. 🟢The GUI should now appear.🟢
+6. The GUI should now appear.🟢
 
    
 
                   ## 🔴Errors🔴
+
         If you encounter the error message:
 
   Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file 
-   '/Users/yourusername/optimize.py': 
+   '/Users/yourusername/optimize.py':  
    
   ## [Errno 2] No such file or directory
    To fix this, navigate to the correct directory where the optimize.py file is located and run the script:
