@@ -9,8 +9,14 @@ A script to optimize macOS settings for gaming performance.
 
 2. Open it after you download it 
 
-3. Run the script:
-python optimize.py
+3. open Terminal then Type " cd /Users/yourMacName or user here /Downloads/macOS-Gaming-Optimizer--main
+4. then run this "chmod +x optimize.py" in Terminal
+5. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"   --it install Python       
+
+6. then run this python optimize.py
+7. your Done it will pop out.
+
+
 
 
 ## Usage
