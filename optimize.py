@@ -102,7 +102,7 @@ def launch_optimized_roblox():
 
 
     # Launch Roblox
-    subprocess.Popen(["/Applications/Roblox.app/Contents/MacOS/Roblox"])
+    subprocess.Popen(["/Applications/Roblox.app/Contents/MacOS/RobloxPlayer"])
 
 def create_widgets():
     root = tk.Tk()
@@ -143,7 +143,7 @@ def create_widgets():
     extra_button_style = ttk.Style()
     extra_button_style.configure("Extra.TButton", background="#ff5733")  
 
-    ttk.Label(root, text="Made by 6_Hope", font=("Helvetica", 10, "italic"), background="black", foreground="white").pack(side=tk.BOTTOM, pady=10)
+    ttk.Label(root, text="Made by 6_Hope", font=("Helvetica", 10, "italic"), background="black", foreground="Green").pack(side=tk.BOTTOM, pady=10)
 
     root.mainloop()
 
