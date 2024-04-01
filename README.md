@@ -24,21 +24,24 @@ python3 optimize.py
 
    
 
-                  ## 🔴Errors🔴
+                   ## 🔴Errors🔴
 
         If you encounter the error message:
 
   Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file 
    '/Users/yourusername/optimize.py':  
    
-  ## [Errno 2] No such file or directory
-   To fix this, navigate to the correct directory where the optimize.py file is located and run the script:
+   [Errno 2] No such file or directory
+   To fix this, navigate the optimize.py file io Desktop and run the script:
 
 
-       cd /Users/yourMacName/Downloads/macOS-Gaming-Optimizer--main/
-       python3 optimize.py
+       cd /Users/YourMacName/Desktop/
+python3 optimize.py
+
 
  
+
+
  
 
 ## Usage
