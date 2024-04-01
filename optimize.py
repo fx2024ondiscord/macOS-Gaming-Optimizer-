@@ -80,7 +80,7 @@ def show_notification(success):
 
 def show_extra_options():
     extra_frame = tk.Toplevel()
-    extra_frame.title("Extra Options(Recommanded)")
+    extra_frame.title("Extra Options(🌟Recommanded🌟)")
 
     roblox_ping_button = ttk.Button(extra_frame, text="Optimize Roblox Ping")
     roblox_ping_button.pack(pady=5)
