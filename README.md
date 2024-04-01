@@ -5,7 +5,7 @@ A script to optimize macOS settings for gaming performance.
 ## Installation
 
 1. Clone the repository:
- >> git@github.com:thedpch/macOS-Gaming-Optimizer-.git
+ >> (https://github.com/thedpch/macOS-Gaming-Optimizer-.git)
 
 2. go to the file
 
