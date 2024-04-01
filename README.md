@@ -4,21 +4,40 @@ A script to optimize macOS settings for gaming performance.
 
 ## Installation
 
-1. Clone the repository:
-[https://github.com/thedpch/macOS-Gaming-Optimizer-.git](https://github.com/thedpch/macOS-Gaming-Optimizer-/tree/main)  --Copy This And Paste on your web if you can't Click it.
+1. Open Terminal and change directory to where the repository is located:
 
-2. Open it after you download it 
+cd /Users/yourMacName/Downloads/macOS-Gaming-Optimizer--main
 
-3. open Terminal then Type " cd /Users/yourMacName or user here /Downloads/macOS-Gaming-Optimizer--main
-4. then run this "chmod +x optimize.py" in Terminal
-5. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"   --it install Python       
+2. Make the optimize.py file executable:
+  
+chmod +x optimize.py
 
-6. then run this in terminal  python3 optimize.py
+4. Install Python using Homebrew:
 
-7. your Done it will pop out.
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+5. Run the optimization script:
+python3 optimize.py
+
+6. 🟢The GUI should now appear.🟢
+
+   
+
+                  ## 🔴Errors🔴
+        If you encounter the error message:
+
+  Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file 
+   '/Users/yourusername/optimize.py': 
+   
+  ## [Errno 2] No such file or directory
+   To fix this, navigate to the correct directory where the optimize.py file is located and run the script:
 
 
+       cd /Users/yourMacName/Downloads/macOS-Gaming-Optimizer--main/
+       python3 optimize.py
 
+ 
+ 
 
 ## Usage
 
@@ -40,3 +59,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback >>>6_hope (discord)
+
+
+     ✅Safe to Use✅ you Can Check it on Virsutool if you want
