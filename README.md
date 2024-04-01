@@ -7,13 +7,8 @@ A script to optimize macOS settings for gaming performance.
 1. Clone the repository:
  >> https://github.com/thedpch/macos-gaming-optimizer-
 
+2. go to the file
 
-Copy code
-2. Navigate to the project directory:
-cd macos-gaming-optimizer
-
-
-Copy code
 3. Run the script:
 python optimize.py
 
