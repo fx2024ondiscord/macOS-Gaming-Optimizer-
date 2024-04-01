@@ -13,7 +13,8 @@ cd /Users/yourMacName/Downloads/macOS-Gaming-Optimizer--main
 chmod +x optimize.py
 
 4. Install Python using Homebrew:
-
+   
+  
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 5. Run the optimization script:
