@@ -39,7 +39,7 @@ python3 optimize.py
 python3 optimize.py
 
 
- 
+ ## 🔵KeepTerminal Open and it Might Ask you for Permission so you will have to type your password for some users so keep eye on the Terminal🔵
 
 
  
